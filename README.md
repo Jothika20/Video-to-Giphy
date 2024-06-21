@@ -1,5 +1,3 @@
-Certainly! Below is a README file explaining how to run your script. This file provides step-by-step instructions for setting up the environment and running the script to convert YouTube videos to GIFs with customizable options.
-
 ### README.md
 
 ---
